@@ -4,7 +4,7 @@
 ## Description
 Analyse poll and bank data
 
-![app_image](mockup.dnd)
+![app_image](mockup.png)
 
 ## Table of Contents
 - [Installation](#installation)
