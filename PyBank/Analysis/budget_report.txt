@@ -1,0 +1,5 @@
+ average increase = -8311.11
+ greatest_increase = 1862002
+ greatest_increase_date =Aug-16
+ greatest_decrease = -1825558
+ greatest_decrease_date = Feb-14
